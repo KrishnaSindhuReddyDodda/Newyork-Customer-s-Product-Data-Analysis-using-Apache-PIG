@@ -1,5 +1,6 @@
 # Newyork-Customers-Product-Data-Analysis-using-Apache-PIG
 Developed an analysis for Newyork Customer's Product datasets using APACHE PIG  for the following.
+
       1. Retrieve customer_id and birth_year of a customer who purchased the product with id 112 and birth_year of 1969.
       2. To retrieve sum of total_goals from sales_target on 04-19-2021.
       3. To retrieve "Baby boommers" generation customer ID and email.
