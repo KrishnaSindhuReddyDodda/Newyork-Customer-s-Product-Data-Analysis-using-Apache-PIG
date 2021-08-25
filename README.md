@@ -10,4 +10,4 @@ Developed an analysis for Newyork Customer's Product datasets using APACHE PIG  
       7. To retrieve all details of a customer named "scott" from customer.txt
       8. Editing all customer_names to start with upper case letter.
       
-From all above files top 7 txt files are datasets and analysis, execution queries are in path_analysis.doc file
+From all above files .txt files are datasets. Analysis and execution queries are in path_analysis.doc file
